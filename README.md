@@ -1,2 +1,2 @@
 # Globatech
-echo "Hello World"
+git echo "Hello World"
