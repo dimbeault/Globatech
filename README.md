@@ -1,0 +1,2 @@
+# Globatech
+echo "Hello World"
